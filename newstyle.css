@@ -1,0 +1,14 @@
+.shaha{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+    padding: 0 110px;
+}
+.shaha .picture img{
+    margin-top: 10%;
+    margin-right: 20px;
+    width: 60vh;
+    height: 30vh;
+}
+
